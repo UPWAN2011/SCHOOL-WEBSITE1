@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background:linear-gradient(#024f4e 0%,#cfbc11 100%) ;
+}
+#Contact{
+    background: lightgrey;
+}
+.Contact_1 h3{
+    display: inline;
+}
+#Contact iframe{
+    width: 100%;
+}
+.my_nav_bar{
+    position:sticky ;
+    top:0;
+    z-index: 99999;
+}
